@@ -1,3 +1,4 @@
+
 #!/bin/bash -x
 read -p "enter frist number: " num
 for ((i=2; i<=$num/2; i++))

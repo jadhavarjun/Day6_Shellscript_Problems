@@ -1,10 +1,10 @@
+
 #!/bin/bash -x
 
-RANDOM=((RANDOM%2))
+RANDOM=$((RANDOM%2))
 
 Hcount=100
 Tcount=100
-
 i=1
 
 echo "Game is Starting With Rs.100 "

@@ -1,3 +1,4 @@
+
 #!/bin/bash
 read -p "please enter number: " n
 

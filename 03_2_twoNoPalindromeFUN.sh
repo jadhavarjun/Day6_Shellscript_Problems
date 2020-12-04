@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 function palindrome()
@@ -22,7 +23,6 @@ function palindrome()
 		echo "Number $a and $b are not Palindrome"
 	fi
 }
-
 
 read -p "Enter 1st Number : " a
 read -p "Enter 2nd Number : " b

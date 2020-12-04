@@ -1,3 +1,4 @@
+
 #!/bin/bash -x
 
 function d2f()
@@ -22,9 +23,9 @@ case $choice in
 	read c
 	d2f $c
 	;;
-2).
+2)
 	echo -ne "Enter Degree Farhenite Temprature : "
-	read $f
+	read f
 	f2d $f
 	;;
 esac
